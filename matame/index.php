@@ -40,13 +40,13 @@ body {font-family: "Lato", sans-serif}
     <p class="w3-justify">Hemos creado un espacio seguro para que puedas compartir y recibir recomendaciones sobre musica, un lugar donde podras ser tu mismo, donde no debes fingir que odias algun tipo de musica porque es un gusto culposo.</p>
     <div class="w3-row w3-padding-32">
       <div class="w3-third">
-        <p><a href="#" class="w3-text-blue">Reggaeton</p>
+        <p><a href="#">Reggaeton</p>
       </div>
       <div class="w3-third">
-        <p><a href="#" class="w3-text-blue">Cumbia</p>
+        <p><a href="#">Cumbia</p>
       </div>
       <div class="w3-third">
-        <p><a href="#" class="w3-text-blue">Banda</p>
+        <p><a href="#">Banda</p>
       </div>
     </div>
   </div>
