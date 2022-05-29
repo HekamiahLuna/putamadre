@@ -43,10 +43,10 @@ body {font-family: "Lato", sans-serif}
         <p><a href="#"><u><FONT COLOR="blue">Reggaeton</FONT></u></p>
       </div>
       <div class="w3-third">
-        <p><a href="#"class="w3-text-blue">Cumbia</p>
+        <p><a href="#"><u><FONT COLOR="blue">Cumbia</FONT></u></p>
       </div>
       <div class="w3-third">
-        <p><a href="#"class="w3-text-blue">Banda</p>
+        <p><a href="#"><u><FONT COLOR="blue">Banda</FONT></u></p>
       </div>
     </div>
   </div>
