@@ -54,7 +54,7 @@ body {font-family: "Lato", sans-serif}
   <!-- The Tour Section -->
   <div class="w3-black" id="tour">
     <div class="w3-container w3-content w3-padding-64" style="max-width:800px">
-     <h2 class="w3-wide w3-center">Ciudades</h2>
+     <h2>Ciudades</h2>
       <div class="w3-row-padding w3-padding-32" style="margin:0 -16px">
         <div class="w3-third w3-margin-bottom">
           <div class="w3-container w3-white">
